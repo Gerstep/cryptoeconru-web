@@ -1,11 +1,11 @@
 # site settings
 title: Cryptoeconomics
-subtitle: Moscow meetup
+subtitle: Research Group
 email: gershuni.stepan@gmail.com
-description: CryptoEcon Moscow Meetup website
+description: CryptoEcon Meetup website
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: Stepan Gershuni
 street_address: 
 city: 
 state: 
