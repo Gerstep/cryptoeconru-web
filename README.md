@@ -1,3 +1,6 @@
 ## Cryptoecon Website
 
-use Jekyll
+To run:
+
+`git pull`
+`jekyll serve`
